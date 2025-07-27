@@ -12,4 +12,4 @@ projects/appium-qax/*
 projects/smartbit-robot/mobile/logs
 projects/smartbit-robot/mobile/node_modules
 projects/smartbit-robot/services/logs
-projects/smartbit-robot/web/logs
+projects/smartbit-robot/web/*
