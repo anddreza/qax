@@ -13,3 +13,7 @@ projects/smartbit-robot/mobile/logs
 projects/smartbit-robot/mobile/node_modules
 projects/smartbit-robot/services/logs
 projects/smartbit-robot/web/*
+projects/qax-alpha/qax-alpha.apk
+projects/qax-alpha/__MACOSX/._qax-alpha.apk
+projects/smartbit-robot/mobile/app/smartbit-beta.apk
+projects/smartbit-robot/mobile/app/__MACOSX/._smartbit-beta.apk
