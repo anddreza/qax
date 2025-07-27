@@ -1,0 +1,15 @@
+.idea
+.venv
+apps
+apps/smartbit/web/node_modules/*
+apps/smartbit/web/node_modules/
+projects/smartbit-robot/logs
+projects/smartbit-robot/node_modules
+projects/smartbit-robot/.venv
+projects/smartbit-robot/.idea
+projects/smartbit-robot/libs
+projects/appium-qax/*
+projects/smartbit-robot/mobile/logs
+projects/smartbit-robot/mobile/node_modules
+projects/smartbit-robot/services/logs
+projects/smartbit-robot/web/logs
